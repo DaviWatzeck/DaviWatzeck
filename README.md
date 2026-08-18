@@ -24,6 +24,12 @@ Sou desenvolvedor full-stack com atuação em sistemas web, APIs e automações.
 
 ## Produtos em destaque
 
+### Monitor de Notas
+
+Plataforma fiscal multi-tenant para monitoramento e gestão de NF-e, NFC-e, CT-e e NFS-e, com coletas automatizadas, emissão de NFS-e, Central Fiscal, relatórios, auditoria e dashboards operacionais.
+
+`Python` `FastAPI` `Next.js` `React` `Multi-tenant`
+
 ### [NFESis 2.0](https://nfesis.com.br/)
 
 Consulta e processamento de NF-e em lote, integração SERPRO, downloads XML/PDF/ZIP, histórico, relatórios, planos e cobrança.
