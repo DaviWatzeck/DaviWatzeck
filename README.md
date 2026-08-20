@@ -30,6 +30,12 @@ Plataforma fiscal multi-tenant para monitoramento e gestão de NF-e, NFC-e, CT-e
 
 `Python` `FastAPI` `Next.js` `React` `Multi-tenant`
 
+### [Economizaí](https://github.com/DaviWatzeck/Economizai-Releases/releases/latest)
+
+Aplicativo Android para planejamento de compras e controle do orçamento mensal, com listas recorrentes, importação por texto e NFC-e, modo mercado, histórico, análises e sincronização entre aparelhos.
+
+`React` `TypeScript` `Tauri` `Rust` `Kotlin` `Supabase`
+
 ### [NFESis 2.0](https://nfesis.com.br/)
 
 Consulta e processamento de NF-e em lote, integração SERPRO, downloads XML/PDF/ZIP, histórico, relatórios, planos e cobrança.
