@@ -24,11 +24,17 @@ Sou desenvolvedor full-stack com atuação em sistemas web, APIs e automações.
 
 ## Produtos em destaque
 
-### Monitor de Notas
+### [Monitor de Notas](https://monitornotas.com.br/)
 
 Plataforma fiscal multi-tenant para monitoramento e gestão de NF-e, NFC-e, CT-e e NFS-e, com coletas automatizadas, emissão de NFS-e, Central Fiscal, relatórios, auditoria e dashboards operacionais.
 
 `Python` `FastAPI` `Next.js` `React` `Multi-tenant`
+
+### [Economizaí](https://github.com/DaviWatzeck/Economizai-Releases/releases/latest)
+
+Aplicativo Android para planejamento de compras e controle do orçamento mensal, com listas recorrentes, importação por texto e NFC-e, modo mercado, histórico, análises e sincronização entre aparelhos.
+
+`React` `TypeScript` `Tauri` `Rust` `Kotlin` `Supabase`
 
 ### [NFESis 2.0](https://nfesis.com.br/)
 
