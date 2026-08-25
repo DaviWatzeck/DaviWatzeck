@@ -92,7 +92,3 @@ Estou aberto a conversar sobre sistemas web, integrações, automações e desaf
 - [Conheça meu portfólio](https://daviwatzeck.github.io/meusite/)
 - [Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/davi-watzeck)
 - [Envie um e-mail](mailto:davi_watzeck@hotmail.com)
-
-<p align="center">
-  <sub>Engenharia com contexto, código com propósito e atenção à operação real.</sub>
-</p>
